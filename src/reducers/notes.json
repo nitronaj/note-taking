@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Note 1",
+      "description": "This is a 1 description",
+      "archived" : false
+    },
+    {
+      "id": "2",
+      "title": "Note 2",
+      "description": "This is a 2 description",
+      "archived" : false
+    }
+  ]
+}
